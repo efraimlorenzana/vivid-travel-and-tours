@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.7c3ca28a.chunk.css",
-    "main.js": "/home/static/js/main.aca373b8.chunk.js",
-    "main.js.map": "/home/static/js/main.aca373b8.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3f2035d2.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3f2035d2.js.map",
-    "static/js/2.433de0d9.chunk.js": "/home/static/js/2.433de0d9.chunk.js",
-    "static/js/2.433de0d9.chunk.js.map": "/home/static/js/2.433de0d9.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.c7d0054e09fadcb565d3e8e6164b56fc.js": "/home/precache-manifest.c7d0054e09fadcb565d3e8e6164b56fc.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.7c3ca28a.chunk.css.map": "/home/static/css/main.7c3ca28a.chunk.css.map",
-    "static/js/2.433de0d9.chunk.js.LICENSE": "/home/static/js/2.433de0d9.chunk.js.LICENSE"
+    "main.css": "/vividtravelandtours/static/css/main.7c3ca28a.chunk.css",
+    "main.js": "/vividtravelandtours/static/js/main.7fb8722e.chunk.js",
+    "main.js.map": "/vividtravelandtours/static/js/main.7fb8722e.chunk.js.map",
+    "runtime-main.js": "/vividtravelandtours/static/js/runtime-main.f9bd59f1.js",
+    "runtime-main.js.map": "/vividtravelandtours/static/js/runtime-main.f9bd59f1.js.map",
+    "static/js/2.fc6a6e57.chunk.js": "/vividtravelandtours/static/js/2.fc6a6e57.chunk.js",
+    "static/js/2.fc6a6e57.chunk.js.map": "/vividtravelandtours/static/js/2.fc6a6e57.chunk.js.map",
+    "index.html": "/vividtravelandtours/index.html",
+    "precache-manifest.c0c041ecedc6fc0d339b31b38c860157.js": "/vividtravelandtours/precache-manifest.c0c041ecedc6fc0d339b31b38c860157.js",
+    "service-worker.js": "/vividtravelandtours/service-worker.js",
+    "static/css/main.7c3ca28a.chunk.css.map": "/vividtravelandtours/static/css/main.7c3ca28a.chunk.css.map",
+    "static/js/2.fc6a6e57.chunk.js.LICENSE": "/vividtravelandtours/static/js/2.fc6a6e57.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f2035d2.js",
-    "static/js/2.433de0d9.chunk.js",
+    "static/js/runtime-main.f9bd59f1.js",
+    "static/js/2.fc6a6e57.chunk.js",
     "static/css/main.7c3ca28a.chunk.css",
-    "static/js/main.aca373b8.chunk.js"
+    "static/js/main.7fb8722e.chunk.js"
   ]
 }
